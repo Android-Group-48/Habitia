@@ -21,7 +21,7 @@ Snapchat (very uniquely mobile due to use of cell phone hardware (camera), very 
 Instagram (not uniquely mobile since there is a web version but pictures are cropped for mobile use, very large user base, not extremely habit-forming but still frequently used, with well-formed scope from friends to celebrities)
 
 New App Ideas (Anmol):
-1. Travel planner
+1. Travel friend
    - Allows travelers to enter the places they want to visit and help in effectively planning the effective ways to visit those places.
    - Saves people time by letting them know which way of travel will get them to all their desired places effectively.
 
@@ -50,7 +50,7 @@ New App Ideas (Zaheem):
 4. Overdramatic sensor
    - An app that allows you input various social indicators and your possible reactions to these to see if you will overreact or not
 
-5. Stylist
+5. Stylist (****)
    - App that chooses outfits depending on your preferred style of clothing and it provides the nearest location to purchase the clothes
     
    
@@ -78,7 +78,25 @@ New App Ideas (Caroline):
 5. BotherMe
     - App that sends notifications on a set schedule (every hour/ two hours / day / week) until the user does a task they don't want to do through the power of annoyance
 
+Top Three App Ideas:
+1. Habit Tracker app
+    - Category: Lifestyle
+    - Mobile: Mobile is most conducive to the use case of this app, since it would often be used on the go and for frequent but short periods of time
+    - Story: Doesn't have a major collaborative aspect to it between different people, with a use case of individual users
+    - Market: any student, but the use case can extend to professionals or other people in general (anyone who wants to work toward a life change)
+    - Habit: strongly builds towards habits, so along with building the habits the user set out to form they would make a habit out of using the app itself for accountability
+    - Scope: The scope is more for individual users than for groups of people at at time, but we could incorporate a synced version for group projects so that everyone receives notifications/contributes to the project every day with everyone able to see other group members' progress and contributions.
+2. Stylist
+   - Category: Lifestyle
+   - Mobile: This app would be best suited for mobile because it requires the use of a camera and gps, in which is easily available on a phone.
+   - Story: The
 
+3. Travel Friend
+   - Category: Travel
+   - Avaliable on both smartphone and web. Valuable to those audienes who love to travel.
+   - The App can be scalable and have a huge potential market as people usually travel from one place to another.
+   - This app can be addictive to travel lovers due to its easy accessibility.
+   - A stripped down version can be interesting to build and is well scoped. However, the construction of this app can be challenging to design an algorithm to calculate the distance between the places in a proper sequence for make it easier for travelers to use.
 
 
 
